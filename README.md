@@ -2,7 +2,7 @@
 
 **Todo** is better Hello World!
 
-Live Preview: https://react.github.io/react-example/
+Live Preview: https://muneebrabaney.github.io/react-example/
 
 ```bash
 $ git clone https://github.com/MuneebRabaney/react-example
