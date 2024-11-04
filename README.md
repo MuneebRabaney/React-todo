@@ -1,13 +1,13 @@
-# vite-example
+# React-example
 
 **Todo** is better Hello World!
 
-Live Preview: https://beary.github.io/vite-example/
+Live Preview: https://react.github.io/react-example/
 
 ```bash
-$ git clone https://github.com/beary/vite-example
+$ git clone https://github.com/MuneebRabaney/react-example
 
-$ cd vite-example
+$ cd react-example
 
 $ pnpm i # https://pnpm.io
 
